@@ -6,7 +6,7 @@ function toggleMode() {
 
   if (html.classList.contains("light")) {
     img.setAttribute("src", "/assets/avatar-light.png");
-    img.setAttribute("alt", "Foto de perfil com óculos escuro");
+    img.setAttribute("alt", "Foto de perfil com oculos escuro");
   } else {
     img.setAttribute("src", "/assets/avatar.png");
     img.setAttribute("alt", "Foto de perfil");
