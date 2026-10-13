@@ -10,9 +10,7 @@ Seu cartão de visitas digital, do seu jeito.
 </p>
 
 <p align="center">
-  <img alt="Capa DevLinks" src=".github/preview.jpg">
-</p>
-
+  <img alt="Capa DevLinks" src="assets/readme-preview.png" style="border-radius: 10px;">
 <br>
 
 ## 🚀 Tecnologias
@@ -26,9 +24,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- O DevLinks é um agregador de links para usar como cartão de visitas online.
+- O DevLinks é um agregador de links para usar como cartão de visitas online, com foto de perfil, links para LinkedIn, GitHub e Rocketseat e ícones de redes sociais, desenvolvido a partir de um layout no Figma.
 
-- Projeto conta com dark/light mode!
+- O projeto tem alternância entre tema escuro e claro feita com JavaScript, que troca as variáveis de cor, os fundos de desktop e mobile e a foto de perfil de acordo com o tema.
 
 <h2 align="center">📌 Desenvolvedores</h2>
 
@@ -49,4 +47,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-<p align="center">Feito com ♥ por Rocketseat 💜</p>
+<p align="center">Feito com ♥ por rebellatoGui</p>
